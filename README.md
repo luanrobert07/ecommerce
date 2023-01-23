@@ -1,2 +1,4 @@
-# ecommerce
-Desenvolvimento de um ecommerce
+<h1 align="center">Ecommerce </h1>
+> Desenvolvimento de um Ecommerce
+
+### Dados no projeto:
